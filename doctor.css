@@ -72,6 +72,7 @@ margin-right: 50px;
     color:#3eb8d7;
 }
 .medium-width-card {
+    colour : blue
     width: 50%; /* Adjust the percentage as needed */
     margin: auto; /* Center the card horizontally */
 }
